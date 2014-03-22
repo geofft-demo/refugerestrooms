@@ -7,6 +7,7 @@ REFUGE is an effort to fill the hole left by the now-defunct Safe2Pee website. I
 
 This project is open source. Feel free to contribute. We could use the help.
 
+lol
 
 ## Set Up For Contributing
 
